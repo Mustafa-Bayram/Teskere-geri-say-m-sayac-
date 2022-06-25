@@ -1,1 +1,1 @@
-# Teskere-geri-say-m-sayac-
+# Teskere-geri-sayim-sayaci-
